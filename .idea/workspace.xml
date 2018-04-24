@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ed0fbf6-5c5e-4f81-ab46-a11722c509d4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="list_photos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/admin/list_photos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photograph.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Includes/photograph.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="117" column="52" lean-forward="false" selection-start-line="117" selection-start-column="52" selection-end-line="117" selection-end-column="52" />
+              <folding>
+                <element signature="n#save#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="n#size_as_text#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="n#find_all#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="n#instantiate#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="e#4681#4844#0#PHP" expanded="false" />
+                <element signature="n#has_attribute#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="n#attributes#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="n#sanitized_attributes#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="n#create#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="n#update#0;n#Photograph#0;n#!!top" expanded="false" />
+                <element signature="e#6361#6465#0#PHP" expanded="false" />
+                <element signature="n#delete#0;n#Photograph#0;n#!!top" expanded="false" />
+                <marker date="1524212417500" expanded="true" signature="3667:3681" ph="SELECT * FRO... ${self::$table_name}" />
+                <marker date="1524212417500" expanded="true" signature="3826:3871" ph="SELECT * FRO... ${self::$table_name}" />
+                <marker date="1524212417500" expanded="true" signature="3826:3902" ph="SELECT * FRO... ${self::$table_name}" />
+                <marker date="1524212417500" expanded="true" signature="3826:3911" ph="SELECT * FRO... ${self::$table_name}" />
+                <marker date="1524212417500" expanded="true" signature="5836:5871" ph="INSERT INTO ${self::$table_name}... " />
+                <marker date="1524212417500" expanded="true" signature="7082:7094" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/photo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-619">
+              <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Public/layouts/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/layouts/admin_header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="88" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Includes/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="809">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Includes/config.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa16872.2178/index.php" />
+        <option value="$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter06/06_04_photo_gallery/includes/database.php" />
+        <option value="$PROJECT_DIR$/cool.php" />
+        <option value="$PROJECT_DIR$/Logs/Toets1.php" />
+        <option value="$PROJECT_DIR$/Logs/ToetsPhp.php" />
+        <option value="$PROJECT_DIR$/Logs/Toets2.php" />
+        <option value="$PROJECT_DIR$/../Opdracht-2.php" />
+        <option value="$PROJECT_DIR$/Logs/toetss.php" />
+        <option value="$PROJECT_DIR$/Logs/Overzicht.php" />
+        <option value="$PROJECT_DIR$/../Toetsphp1.php" />
+        <option value="$PROJECT_DIR$/Logs/ToetsPhp1.php" />
+        <option value="$PROJECT_DIR$/Logs/ToetsPhp2Verwijzing.php" />
+        <option value="$PROJECT_DIR$/Logs/ToetsPhp2.php" />
+        <option value="$PROJECT_DIR$/Logs/ToetsPhp3Verwijzing.php" />
+        <option value="$PROJECT_DIR$/Logs/ToetsPhp3.php" />
+        <option value="$PROJECT_DIR$/Logs/tool.php" />
+        <option value="$PROJECT_DIR$/Public/Sylesheets/main.css.php" />
+        <option value="$PROJECT_DIR$/Public/Stylesheets/main.css.php" />
+        <option value="$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter06/06_12_photo_gallery/includes/user.php" />
+        <option value="$PROJECT_DIR$/Public/layouts/admin_header.php" />
+        <option value="$PROJECT_DIR$/Public/admin/login.php" />
+        <option value="$PROJECT_DIR$/Public/Stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/Includes/database_object.php" />
+        <option value="$PROJECT_DIR$/Includes/database.php" />
+        <option value="$PROJECT_DIR$/Public/admin/test.php" />
+        <option value="$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_06_photo_gallery/includes/user.php" />
+        <option value="$PROJECT_DIR$/Includes/user.php" />
+        <option value="$PROJECT_DIR$/Includes/initialize.php" />
+        <option value="$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_05_photo_gallery/public/admin/photo_upload.php" />
+        <option value="$PROJECT_DIR$/Includes/session.php" />
+        <option value="$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_08_photo_gallery/public/admin/delete_photo.php" />
+        <option value="$PROJECT_DIR$/Public/admin/delete_photo.php" />
+        <option value="$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_08_photo_gallery-final/public/index.php" />
+        <option value="$PROJECT_DIR$/Public/Images/index.php" />
+        <option value="$PROJECT_DIR$/Public/Images/photo.php" />
+        <option value="$PROJECT_DIR$/Public/admin/index.php" />
+        <option value="$PROJECT_DIR$/Public/admin/photo_upload.php" />
+        <option value="$PROJECT_DIR$/Includes/comment.php" />
+        <option value="$PROJECT_DIR$/Public/layouts/footer.php" />
+        <option value="$PROJECT_DIR$/Public/layouts/admin_footer.php" />
+        <option value="$PROJECT_DIR$/Includes/photograph.php" />
+        <option value="$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter11/11_04_photo_gallery/public/photo.php" />
+        <option value="$PROJECT_DIR$/Public/photo.php" />
+        <option value="$PROJECT_DIR$/Includes/functions.php" />
+        <option value="$PROJECT_DIR$/Public/admin/list_photos.php" />
+        <option value="$PROJECT_DIR$/Public/index.php" />
+        <option value="$PROJECT_DIR$/Public/layouts/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="619" />
+    <option name="y" value="-27" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PhotoGallery" type="cbb8eebc:String" user="PhotoGallery" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotoGallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotoGallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotoGallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotoGallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotoGallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotoGallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotoGallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Stylesheets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PhotoGallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sessions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\PhotoGallery\Public\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\PhotoGallery\Public" />
+      <recent name="C:\xampp\htdocs\php\PhotoGallery\Public\Images" />
+      <recent name="C:\xampp\htdocs\php\PhotoGallery\Public\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed0fbf6-5c5e-4f81-ab46-a11722c509d4" name="Default" comment="" />
+      <created>1519380381635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519380381635</updated>
+      <workItem from="1519380382892" duration="7387000" />
+      <workItem from="1519658730441" duration="2074000" />
+      <workItem from="1519983573634" duration="3226000" />
+      <workItem from="1520174972054" duration="4867000" />
+      <workItem from="1520272718041" duration="6959000" />
+      <workItem from="1520793236113" duration="13734000" />
+      <workItem from="1520876407192" duration="747000" />
+      <workItem from="1521193303362" duration="3243000" />
+      <workItem from="1521453346593" duration="3225000" />
+      <workItem from="1521797328104" duration="7524000" />
+      <workItem from="1523003804237" duration="2287000" />
+      <workItem from="1523263758259" duration="3753000" />
+      <workItem from="1523443234066" duration="1153000" />
+      <workItem from="1523609391785" duration="2401000" />
+      <workItem from="1523831736965" duration="755000" />
+      <workItem from="1523863685369" duration="6690000" />
+      <workItem from="1523887991912" duration="6843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76868000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51979166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter06/06_13_photo_gallery/includes/initialize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter06/06_12_photo_gallery/public/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter06/06_13_photo_gallery/public/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/database_object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter06/06_13_photo_gallery-final/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="52" lean-forward="true" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_01_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1070">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_02_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-619">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_02_photo_gallery/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_02_photo_gallery/public/admin/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="n#__construct#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#open_connection#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#close_connection#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="e#542#665#0#PHP" expanded="false" />
+            <element signature="n#query#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#escape_value#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#confirm_query#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#mysql_prep#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#fetch_array#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#num_rows#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#insert_id#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#affected_rows#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_04_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="130" column="2" lean-forward="true" selection-start-line="130" selection-start-column="2" selection-end-line="130" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_06_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_07_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="85" selection-start-column="4" selection-end-line="94" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter09/09_07_photo_gallery-final/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="84" selection-start-column="6" selection-end-line="91" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_02_photo_gallery/includes/photograph.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_03_photo_gallery/includes/photograph.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/admin/test.php" />
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_04_photo_gallery/includes/photograph.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="82" column="75" lean-forward="true" selection-start-line="82" selection-start-column="75" selection-end-line="82" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_05_photo_gallery/public/admin/photo_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_06_photo_gallery/public/admin/list_photos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_06_photo_gallery/includes/photograph.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="117" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_06_photo_gallery/includes/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_07_photo_gallery/includes/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_08_photo_gallery/includes/photograph.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="118" column="5" lean-forward="true" selection-start-line="103" selection-start-column="4" selection-end-line="118" selection-end-column="5" />
+          <folding>
+            <marker date="1231443408000" expanded="true" signature="4214:4228" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1231443408000" expanded="true" signature="4362:4447" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1231443408000" expanded="true" signature="6752:6787" ph="INSERT INTO ${self::$table_name}... " />
+            <marker date="1231443408000" expanded="true" signature="7950:7962" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_08_photo_gallery/public/admin/delete_photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_08_photo_gallery/public/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_08_photo_gallery-final/public/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/admin/delete_photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter10/10_08_photo_gallery-final/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/initialize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/admin/photo_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter11/11_02_photo_gallery/includes/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <marker date="1231446246000" expanded="true" signature="963:977" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1231446246000" expanded="true" signature="1244:1258" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1231446246000" expanded="true" signature="1371:1429" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1231446246000" expanded="true" signature="3688:3723" ph="INSERT INTO ${self::$table_name}... " />
+            <marker date="1231446246000" expanded="true" signature="4886:4898" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="n#find_all#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#find_by_id#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#find_by_sql#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#instantiate#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#has_attribute#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#attributes#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#sanitized_attributes#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#save#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#create#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#update#0;n#Comment#0;n#!!top" expanded="false" />
+            <element signature="n#delete#0;n#Comment#0;n#!!top" expanded="false" />
+            <marker date="1524211451488" expanded="true" signature="904:918" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1524211451488" expanded="true" signature="1214:1228" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1524211451488" expanded="true" signature="1373:1431" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1524211451488" expanded="true" signature="3352:3387" ph="INSERT INTO ${self::$table_name}... " />
+            <marker date="1524211451488" expanded="true" signature="4598:4610" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/layouts/admin_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="77" lean-forward="false" selection-start-line="1" selection-start-column="77" selection-end-line="1" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter11/11_03_photo_gallery/public/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter11/11_04_photo_gallery/public/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Files Photogallery/Exercise Files/Chapter11/11_04_photo_gallery/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/photograph.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="117" column="52" lean-forward="false" selection-start-line="117" selection-start-column="52" selection-end-line="117" selection-end-column="52" />
+          <folding>
+            <element signature="n#save#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="n#size_as_text#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="n#find_all#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="n#instantiate#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="e#4681#4844#0#PHP" expanded="false" />
+            <element signature="n#has_attribute#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="n#attributes#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="n#sanitized_attributes#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="n#create#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="n#update#0;n#Photograph#0;n#!!top" expanded="false" />
+            <element signature="e#6361#6465#0#PHP" expanded="false" />
+            <element signature="n#delete#0;n#Photograph#0;n#!!top" expanded="false" />
+            <marker date="1524212417500" expanded="true" signature="3667:3681" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1524212417500" expanded="true" signature="3826:3871" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1524212417500" expanded="true" signature="3826:3902" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1524212417500" expanded="true" signature="3826:3911" ph="SELECT * FRO... ${self::$table_name}" />
+            <marker date="1524212417500" expanded="true" signature="5836:5871" ph="INSERT INTO ${self::$table_name}... " />
+            <marker date="1524212417500" expanded="true" signature="7082:7094" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/admin/list_photos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-619">
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/layouts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/layouts/admin_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/layouts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
